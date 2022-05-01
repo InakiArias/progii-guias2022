@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1650158603 source:c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guias\guia 5\12\colac.c
+	"ColaC.h"
+
+1650158603 c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guias\guia 5\12\colac.h
+
+1650158603 source:c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guias\guia 5\12\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ColaC.h"
+
+1650159670 source:c:\users\usuario\desktop\12\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ColaC.h"
+
+1650159777 c:\users\usuario\desktop\12\colac.h
+
+1650159793 source:c:\users\usuario\desktop\12\colac.c
+	"ColaC.h"
+

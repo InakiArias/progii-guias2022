@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1650156772 source:c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guias\guia 5\9\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+
+1649357137 c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guias\guia 5\9\pila.h
+	"TElementoP.h"
+
+1649360471 c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guias\guia 5\9\telementop.h
+
+1650156142 source:c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guias\guia 5\9\pila.c
+	"Pila.h"
+	<stdlib.h>
+

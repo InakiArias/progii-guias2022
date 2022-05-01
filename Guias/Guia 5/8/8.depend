@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1649357849 source:c:\users\usuario\desktop\8\pila.c
+	"Pila.h"
+	<stdlib.h>
+
+1649357137 c:\users\usuario\desktop\8\pila.h
+	"TElementoP.h"
+
+1649360471 c:\users\usuario\desktop\8\telementop.h
+
+1649362156 source:c:\users\usuario\desktop\8\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+

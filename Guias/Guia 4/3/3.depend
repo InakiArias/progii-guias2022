@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1649100952 source:c:\users\usuario\desktop\3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"AgendaContactos.h"
+
+1649094172 c:\users\usuario\desktop\3\contacto.h
+
+1649102214 source:c:\users\usuario\desktop\3\contacto.c
+	"Contacto.h"
+	<string.h>
+	<stdlib.h>
+
+1649101724 source:c:\users\usuario\desktop\3\agendacontactos.c
+	"AgendaContactos.h"
+	<stdio.h>
+	<string.h>
+
+1649100918 c:\users\usuario\desktop\3\agendacontactos.h
+	"Contacto.h"
+
+1649101724 source:c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guias\guia 4\3\agendacontactos.c
+	"AgendaContactos.h"
+	<stdio.h>
+	<string.h>
+
+1649185149 c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guias\guia 4\3\agendacontactos.h
+	"Contacto.h"
+
+1649102214 source:c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guias\guia 4\3\contacto.c
+	"Contacto.h"
+	<string.h>
+	<stdlib.h>
+
+1649094172 c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guias\guia 4\3\contacto.h
+
+1649167869 source:c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guias\guia 4\3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"AgendaContactos.h"
+

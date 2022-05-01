@@ -1,0 +1,35 @@
+int main()
+{
+    
+	int *p, a = 4, b = 5;
+    
+	p = &b;
+    
+	*p *= 2; // *p == b == 10
+   
+ 
+	printf("b=%d *p=%d\n", b, *p); //10 10
+    
+	printf("&b=%p p=%p &p=%p\n", &b, p, &p); //dB dB dP
+
+    
+	b = *p *3; // b == *p == 30
+    
+
+	printf("b=%d *p=%d\n", b, *p); //30 30
+    
+	printf("&b=%p p=%p\n", &b, p); //dB dB
+   
+ 
+	a = b; // a == b == 30
+    
+	p = &a;
+    
+	(*p)++; // *p == a == 31
+    
+
+	printf("b=%d a=%d *p=%d\n", b, a, *p); //30 31 31
+    
+	printf("&b=%p &a=%p p=%p &p=%p\n", &b, &a, p, &p); //dB dA dA dP
+
+}

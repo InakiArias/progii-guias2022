@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1650161999 source:c:\users\usuario\desktop\14\colac.c
+	"ColaC.h"
+
+1650160599 c:\users\usuario\desktop\14\colac.h
+
+1650162559 source:c:\users\usuario\desktop\14\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"ColaC.h"
+
+1649357849 source:c:\users\usuario\desktop\14\pila.c
+	"Pila.h"
+	<stdlib.h>
+
+1650160585 c:\users\usuario\desktop\14\pila.h
+
