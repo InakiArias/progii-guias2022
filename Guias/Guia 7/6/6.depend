@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652114592 source:c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guias\guia 7\6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
