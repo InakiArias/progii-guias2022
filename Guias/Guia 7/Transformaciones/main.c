@@ -95,7 +95,7 @@ void cantAlturaK(TArbol a, int k, int* res) { //ej 24
     *res = 0;
 
     while (a != NULL) {
-        if (altura(a->izq) + 1 == k)
+        if (altura(a->izq) + 1 >= k)
             (*res)++;
         a = a->der;
     }
