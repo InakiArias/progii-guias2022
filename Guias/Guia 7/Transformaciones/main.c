@@ -63,7 +63,7 @@ int altura(TArbol a) { //ej 22
     int altIzq, altDer;
 
     if (a == NULL)
-        return 0;
+        return -1;
     else {
         altIzq = altura(a->izq) + 1;
         altDer = altura(a->der);
