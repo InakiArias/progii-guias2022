@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1652983596 source:c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guias\guia 7\28\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TArbolN.h"
+
+1652985074 source:c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guias\guia 7\28\tarboln.c
+	"TArbolN.h"
+
+1652984937 c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guias\guia 7\28\tarboln.h
+
