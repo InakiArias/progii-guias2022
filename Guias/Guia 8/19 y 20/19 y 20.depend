@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1650161999 source:c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guias\guia 8\19 y 20\colac.c
+	"ColaC.h"
+
+1651023274 c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guias\guia 8\19 y 20\colac.h
+
+1653325773 source:c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guias\guia 8\19 y 20\pila.c
+	"Pila.h"
+	<stdlib.h>
+
+1651023274 c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guias\guia 8\19 y 20\pila.h
+
+1653869787 source:c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guias\guia 8\19 y 20\main.c
+	<stdio.h>
+	<stdlib.h>
+

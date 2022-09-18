@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1650161999 source:c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guias\guia 8\prim y kruskal\colac.c
+	"ColaC.h"
+
+1651023274 c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guias\guia 8\prim y kruskal\colac.h
+
+1653863562 source:c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guias\guia 8\prim y kruskal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ColaC.h"
+	"Pila.h"
+
+1651023274 c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guias\guia 8\prim y kruskal\pila.h
+
+1653325773 source:c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\guias\guia 8\prim y kruskal\pila.c
+	"Pila.h"
+	<stdlib.h>
+

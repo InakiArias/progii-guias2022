@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1650154721 source:c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\parciales viejos\2017 1c\parcial\main.c
+	"headers.h"
+
+1643942083 c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\parciales viejos\2017 1c\parcial\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ColaC.h"
+
+1643941123 c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\parciales viejos\2017 1c\parcial\colac.h
+
+1650154544 source:c:\users\usuario\downloads\iñaki\estudios\fi\materias en curso\programacion ii\parciales viejos\2017 1c\parcial\colac.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ColaC.h"
+

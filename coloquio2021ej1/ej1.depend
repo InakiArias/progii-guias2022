@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1656872674 source:c:\users\usuario\desktop\coloquio2021ej1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+
+1656871136 c:\users\usuario\desktop\coloquio2021ej1\pila.h
+
+1649357849 source:c:\users\usuario\desktop\coloquio2021ej1\pila.c
+	"Pila.h"
+	<stdlib.h>
+

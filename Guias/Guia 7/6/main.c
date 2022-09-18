@@ -43,6 +43,8 @@ void nivelMasLarga(TArbol a, char empiezaCon, int largoMax, int nivelActual, int
     }
 }
 
+//nivelMasLarga(arbol, 'A', 0, 0, &resultado);
+
 int main()
 {
     TArbol n1, n2, n3, n4, n5, n6, n7;
@@ -51,8 +53,8 @@ int main()
     creaNodo("Hola", &n1);
     creaNodo("Adios", &n2);
     creaNodo("Holaa", &n3);
-    creaNodo("Como va", &n4);
-    creaNodo("Jejeje", &n5);
+    creaNodo("asadsad", &n4);
+    creaNodo("rtyrtyrty", &n5);
     creaNodo("Adioss", &n6);
     creaNodo("Holi", &n7);
 

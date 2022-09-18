@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1651858227 source:c:\users\usuario\desktop\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1651855235 source:c:\users\usuario\desktop\parcial\pilaestatica.c
+	<stdio.h>
+	"pila.h"
+
+1651855195 c:\users\usuario\desktop\parcial\pila.h
+

@@ -63,7 +63,7 @@ int altura(TArbol a) { //ej 22
     int altIzq, altDer;
 
     if (a == NULL)
-        return -1;
+        return 0;
     else {
         altIzq = altura(a->izq) + 1;
         altDer = altura(a->der);
@@ -95,7 +95,7 @@ void cantAlturaK(TArbol a, int k, int* res) { //ej 24
     *res = 0;
 
     while (a != NULL) {
-        if (altura(a->izq) + 1 >= k)
+        if (altura(a->izq) + 1 == k)
             (*res)++;
         a = a->der;
     }

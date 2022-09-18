@@ -1,0 +1,16 @@
+(3p) Ej 1.- Escribir una función tal que dada la matriz A final del algoritmo de Floyd aplicado sobre un digrafo de N vértices, determine con cuántos vértices está conectado (directa o indirectamente) el vértice K (K dato de entrada)
+
+(3p) Ej 2.- Suponer una lista doblemente enlazada en la que cada elemento contiene dos números enteros positivos. Se pide, definir tipos e implementar:
+
+ Eliminar de la lista aquellos nodos que contengan valores que sean divisores de K (K dato de entrada), si no hubiera ninguno, agregar en la lista un nodo al final que contenga como valores K y 1: 
+(4p) Ej 3.- ORAL
+
+El tiempo asignado para el entrega de la resolución de los ejercicios 1 y 2 es 50'
+
+Serán considerados al calificar este examen la eficiencia de las soluciones y la utilización adecuada de las características del lenguaje C y de la programación estructurada.
+
+Para aprobar es necesario obtener al menos 4 puntos de la parte escrita y luego responder una parte oral
+
+(*) Cuando este examen esté aprobado, la cursada se pasará como PROMOCIONADA y la nota se obtendrá como el promedio de la CURSADA y este EXAMEN
+
+(*) Si el examen resultara desaprobado, la cursada se pasará como HABILITADA
